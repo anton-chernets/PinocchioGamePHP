@@ -1,36 +1,3 @@
-.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle),
-.btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle) {
-    border-radius: 3px;
-    white-space: pre-line;
-}
-
-/*.green:active:hover {*/
-/*background-color: limegreen;*/
-/*color: white;*/
-/*white-space: pre-line;*/
-/*}*/
-
-.red:active:hover {
-    background-color: limegreen;
-    color: white;
-    white-space: pre-line;
-}
-
-
-/*.btn-default:active:hover, .btn-default.active:hover, .open > .dropdown-toggle.green:hover,*/
-/*.btn-default:active:focus, .btn-default.active:focus, .open > .dropdown-toggle.green:focus,*/
-/*.btn-default:active.focus, .btn-default.active.focus, .open > .dropdown-toggle.green.focus{*/
-    /*background-color: limegreen;*/
-    /*color: white;*/
-    /*white-space: pre-line;*/
-/*}*/
-
-/*.btn-default:active:hover, .btn-default.active:hover, .open > .dropdown-toggle.btn-default:hover,*/
-/*.btn-default:active:focus, .btn-default.active:focus, .open > .dropdown-toggle.btn-default:focus,*/
-/*.btn-default:active.focus, .btn-default.active.focus, .open > .dropdown-toggle.btn-default.focus{*/
-/*background-color: red;*/
-/*}*/
-
 h1{
 }
 
